@@ -20,6 +20,15 @@ h1{
     color: purple;
     text-align: center;
 }
+h2{
+    font-size: 25px;
+}
+textarea{
+    height: 40px;
+    width: 1000px;
+    margin: 0 auto;
+    
+}
 body{
     width: 1000px;
     margin: 0 auto;
@@ -30,5 +39,7 @@ img {
     display: block;
     margin: 0 auto;
     width: 1000px;
+    
+
   
 }
